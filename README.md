@@ -1,6 +1,6 @@
-<h1 align="center"><b> THE X-Troid Public Bot  </b></h1>
+<h1 align="center"><b> THE X-datamaruwa Public Bot  </b></h1>
 
-![logo](https://telegra.ph/file/569fd05fb4c587a360d38.jpg)
+![logo](https://i.hizliresim.com/152nwlw.jpg)
 
 
 
@@ -8,9 +8,9 @@
 <p align="center">
     Project of X-Troid - Makes it easy and fun to use Whatsapp. Also first Sinhala userbot for Whatsapp.
     <br>
-        <a href="http://t.me/danumabots">Telegram Channel</a> |
-        <a href="https://t.me/danuma01">Telegram Group</a> |
-        <a href="https://chat.whatsapp.com/JigWG8oj1hj1YXLgJaqxta">New Support Group</a> |
+        <a href="https://t.me/sldata1">Telegram Channel</a> |
+        <a href="https://t.me/datamaruwa">Telegram Group</a> |
+        <a href="https://chat.whatsapp.com/CHcAjE3DKkJD9J1mrTGUwE">New Support Group</a> |
         <a href="https://t.me/unofficialplugin">All Groups & channels </a> |
     <br>
 </p>
