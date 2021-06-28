@@ -11,13 +11,13 @@
         <a href="https://t.me/sldata1">Telegram Channel</a> |
         <a href="https://t.me/datamaruwa">Telegram Group</a> |
         <a href="https://chat.whatsapp.com/CHcAjE3DKkJD9J1mrTGUwE">New Support Group</a> |
-        <a href="https://t.me/unofficialplugin">All Groups & channels </a> |
+        <a href="https://t.me/datamaruwawhatsappbot">All Groups & channels </a> |
     <br>
 </p>
 
-[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@lasindu123/XTROID)
+[![Run on Repl.it](https://repl.it/badge/github/phaticusthiccy/WhatsAsenaDuplicated)](https://replit.com/@mihiranga/Datamaruwoteambot )
 
-[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/lasiyaWA/X-Troid)
+[![Deploy](https://www.herokucdn.com/deploy/button.svg)](https://heroku.com/deploy?template=https://github.com/Mihirangamax/X-Troid)
 
 ### ⚠️ Warning! 
 ```
@@ -29,14 +29,27 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ### Disclaimer
 `WhatsApp` name, its variations and the logo are registered trademarks of Facebook. We have nothing to do with the registered trademark
 
-## Thanks To
-[![Yusuf Usta](https://github.com/yusufusta.png?size=50)](https://t.me/fusufs)  | [![CW4RR10R](https://github.com/CW4RR10R.png?size=50)](https://github.com/CW4RR10R)
-----|----|
-[Yusuf Usta](https://t.me/fusufs) | [CW4RR10R](https://t.meW4RR10R)
- Base, | hepls,idea
+## join us
+🔰𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗜𝗚𝗥𝗔𝗠 𝗚𝗥𝗢𝗨𝗣
+🔗https://t.me/datamaruwa
+🔰𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗜𝗚𝗥𝗔𝗠 𝗖𝗛𝗔𝗡𝗡𝗘𝗟
+🔗https://t.me/sldata1
+🔰𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗜𝗚𝗥𝗔𝗠 𝗕𝗢𝗧 1️⃣
+🔗https://t.me/Datamaruwo2bot
+🔰𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗜𝗚𝗥𝗔𝗠 𝗕𝗢𝗧 2️⃣
+🔗https://t.me/SKSbattabot
+🔰 𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗣2️⃣
+🔗https://chat.whatsapp.com/HsEGS3r8de40x99TBHFOMN
+🔰 𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗣3️⃣
+🔗https://chat.whatsapp.com/LTvwI9vghx94e4mixI0ljQ
 
-# base bot
-https://github.com/yusufusta/WhatsAsena
+◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒◒
 
-# Baileys whatsapp api 
-https://github.com/adiwajshing/Baileys
+
+
+
+
+
+
+
+
