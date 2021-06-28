@@ -32,14 +32,19 @@ By establishing the Asena, you are deemed to have accepted these responsibilitie
 ## join us
 🔰𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗜𝗚𝗥𝗔𝗠 𝗚𝗥𝗢𝗨𝗣
 🔗https://t.me/datamaruwa
+
 🔰𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗜𝗚𝗥𝗔𝗠 𝗖𝗛𝗔𝗡𝗡𝗘𝗟
 🔗https://t.me/sldata1
+
 🔰𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗜𝗚𝗥𝗔𝗠 𝗕𝗢𝗧 1️⃣
 🔗https://t.me/Datamaruwo2bot
+
 🔰𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗧𝗘𝗟𝗜𝗚𝗥𝗔𝗠 𝗕𝗢𝗧 2️⃣
 🔗https://t.me/SKSbattabot
+
 🔰 𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗣2️⃣
 🔗https://chat.whatsapp.com/HsEGS3r8de40x99TBHFOMN
+
 🔰 𝗝𝗢𝗜𝗡 𝗢𝗨𝗥 𝗪𝗛𝗔𝗧𝗦𝗔𝗣𝗣 𝗚𝗥𝗢𝗨𝗣3️⃣
 🔗https://chat.whatsapp.com/LTvwI9vghx94e4mixI0ljQ
 
