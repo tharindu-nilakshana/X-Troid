@@ -1,4 +1,4 @@
-<h1 align="center"><b> THE X-datamaruwa Public Bot  </b></h1>
+<h1 align="center"><b>datamaruwa Public Bot  </b></h1>
 
 ![logo](https://i.hizliresim.com/152nwlw.jpg)
 
